@@ -22,7 +22,7 @@
         <groupId>org.apache</groupId>
         <artifactId>apache</artifactId>
         <version>21</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <groupId>org.apache.dubbo</groupId>
@@ -143,7 +143,7 @@
         <embedded_redis_version>0.6</embedded_redis_version>
 
         <!-- Eureka -->
-        <eureka.version>1.9.12</eureka.version>
+        <eureka.version>1.10.17</eureka.version>
 
         <!-- Alibaba -->
         <alibaba_spring_context_support_version>1.0.8</alibaba_spring_context_support_version>
